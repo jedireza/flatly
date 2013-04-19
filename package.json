@@ -1,0 +1,10 @@
+{
+  "name": "flatly",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "~2.7.6",
+    "hogan.js": "~2.0.0",
+    "jshint": "~1.1.0",
+    "watchr": "~2.4.3"
+  }
+}
