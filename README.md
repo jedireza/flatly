@@ -12,7 +12,7 @@ Technology
 
 Made with Node.js and using `make` to run the build.
 
-- hogan.js
+- jade
 - jshint
 - connect
 - watchr
